@@ -1,6 +1,4 @@
 HOLA!!!!
 
 
-ESTOY USANDO GIT!!
-
-Le hice unos cambios
+ESTOY USANDO GITHUB!!
